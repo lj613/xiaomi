@@ -1,0 +1,18 @@
+a, body, button, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, input, ul, ol, li, p, pre, form, select, textarea, button, input, hr, th, td {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body, html {
+    font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: #333;
+    background-color: #fff;
+    min-width: 1226px;
+}
